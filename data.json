@@ -1,0 +1,72 @@
+[{
+    "id": "1",
+    "army": "Covenant",
+    "species": "Hunter",
+    "image": "http://www.halodiehards.net/wp-content/uploads/2013/05/hunters_at_night_by_demonplay-d3dxat5.jpg",
+
+    "id": "2",
+    "army": "Covenant",
+    "species": "Elite",
+    "image": "http://cdn.playbuzz.com/cdn/aaad7928-3c55-47ac-88ac-555ca41bc886/7cd1fe4f-94b7-4c84-8240-d6e4e131f930.png",
+        // or "http://1.bp.blogspot.com/_Taezh4ULlfw/SRVjHKW593I/AAAAAAAAAZk/93vrJSzTcOg/s400/Duel_Halo%20Energy%20Sword.jpg",
+
+    "id": "3",
+    "army": "Covenant",
+    "species": "Jackal",
+    "image": "https://i.pinimg.com/736x/48/79/57/48795705806147526903dcf92040d2a4--binder-sean-opry.jpg",
+
+    "id": "4",
+    "army": "Covenant",
+    "species": "Grunt",
+    "image": "https://www.halopedia.org/images/6/61/Halo_Wars_Grunt.jpg",
+
+    "id": "5",
+    "army": "Promethean",
+    "species": "Warden",
+    "image": "http://cdn4.dualshockers.com/wp-content/uploads/2016/06/Halo-5-Guardians-Warzone-Firefight-Urban-Warden.jpg",
+
+    "id": "6",
+    "army": "Promethean",
+    "species": "Knight",
+    "image": "https://cdnb.artstation.com/p/assets/covers/images/001/578/963/20151130153033/small_square/kyle-hefley-knight-page-02.jpg?1448919033",
+
+    "id": "7",
+    "army": "Promethean",
+    "species": "Soldier",
+    "image": "https://content.halocdn.com/media/Default/community/blogs/canon-fodder/cfsoldiersniperhr-efb91050ed6741e8a190ed7fc95e9d6f.jpg",
+
+    "id": "8",
+    "army": "Promethean",
+    "species": "Crawler",
+    "image": "",
+
+    "id": "9",
+    "army": "Promethean",
+    "species": "Watcher",
+    "image": "",
+
+    "id": "10",
+    "army": "UNSC",
+    "species": "",
+    "image": "",
+
+    "id": "11",
+    "army": "",
+    "species": "",
+    "image": "",
+
+    "id": "12",
+    "army": "",
+    "species": "",
+    "image": "",
+
+    "id": "13",
+    "army": "",
+    "species": "",
+    "image": "",
+
+    "id": "14",
+    "army": "",
+    "species": "",
+    "image": "",
+}];
